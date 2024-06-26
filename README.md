@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dok-neil
 -    Im  knowledgable in javascript , java and python.
 - 👀 I’m interested in cybersecurity ,network engineering and python programming
-- 🌱 I’m currently learning on penetration testing using kali linux and burp suite tools
+- 🌱 I’m currently learning on penetration testing using kali linux and burpsuite tools
 - 💞️ I’m looking to collaborate on other cybersecurity professionals and get some tips on how to become a successful in this industry
 - 📫 How to reach me : just email kernel618@gmail.com
 
